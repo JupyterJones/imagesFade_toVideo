@@ -1,2 +1,10 @@
-# imagesFade_toVideo
-Select a directory and convert those images to a video. Fade one image to the next add music and frame
+<code>
+git clone git@github.com:JupyterJones/Flask_Images_2_MP4.git
+
+virtualenv --python=python3.8 env
+source env/bin/activate
+python -m pip install -r requirements.txt
+
+python app.py
+</code>
+

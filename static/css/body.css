@@ -1,0 +1,8 @@
+body {
+    background-image: url('../../static/assets/MemMaker_background.png');
+    background-size: 100% auto; /* 100% width and auto height for responsiveness */
+    background-position: top; /* Center the background image horizontally */
+    background-repeat: repeat-y; /* Repeat vertically */
+    text-align: center !important;
+
+}
